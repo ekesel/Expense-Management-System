@@ -1,0 +1,2 @@
+# Expense-Management-System
+I have created a mini c++ project which calculates the Term allowances and Dearness allowances of Employees. They have their own  login information and signup information. The admins on the other hand will have their own login and signup information to keep a check on them. This will also generate audit bills from employees which the admins can see in their portal. The admins can either accept or reject allowance applications and that status will show on employee id.
